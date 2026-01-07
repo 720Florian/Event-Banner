@@ -1,4 +1,4 @@
-# Event Banner
+#Event Banner
 
 **Contributors:** 720Florian  
 **Tags:** banner, announcement, schedule, events  
